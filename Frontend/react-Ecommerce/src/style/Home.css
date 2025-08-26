@@ -1,0 +1,11 @@
+.mainContent{
+  width : 98%;
+  margin-left: 20px;
+  padding: 5px;
+  z-index: 1;
+  padding-top: 120px;
+}
+.ant-carousel {
+  position: relative;
+  z-index: 1;
+}
