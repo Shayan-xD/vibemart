@@ -1,0 +1,25 @@
+# Node
+node_modules/
+build/
+
+# React environment
+Frontend/react-Ecommerce/.env
+
+# Java / Spring Boot
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ / Eclipse / VSCode
+.idea/
+*.iml
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
